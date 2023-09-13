@@ -22,10 +22,10 @@ Simple utility that lets you add any socket types to your Node Groups.
 
 <!-- --------------------------------------------------------- -->
 
-[stars-shield]: https://img.shields.io/github/stars/luvyana/lena?style=for-the-badge
-[stars-url]: https://github.com/luvyana/lena/stargazers
-[issues-shield]: https://img.shields.io/github/issues/luvyana/lena?style=for-the-badge
-[issues-url]: https://github.com/luvyana/lena/issues
-[license-shield]: https://img.shields.io/github/license/luvyana/lena?style=for-the-badge
-[license-url]: https://github.com/luvyana/lena/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/luvyana/Lena?style=for-the-badge
+[stars-url]: https://github.com/luvyana/Lena/stargazers
+[issues-shield]: https://img.shields.io/github/issues/luvyana/Lena?style=for-the-badge
+[issues-url]: https://github.com/luvyana/Lena/issues
+[license-shield]: https://img.shields.io/github/license/luvyana/Lena?style=for-the-badge
+[license-url]: https://github.com/luvyana/Lena/blob/master/LICENSE.txt
 [dena-gif]: images/dena.gif
